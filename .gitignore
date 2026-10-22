@@ -1,0 +1,10 @@
+# Archivos de datos reales: nunca versionar
+DDJJ*.txt
+OS*.txt
+SO*.txt
+SUMA*.txt
+EX*.txt
+*.xls
+*.xlsx
+data/
+salidas/

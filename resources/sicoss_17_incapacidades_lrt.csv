@@ -1,0 +1,17 @@
+Código;Desde;Hasta;Descripción;APORTES O.S.;CONTRIBUCIONES O.S.
+0;199407;999999;No Incapacitado;1;1
+1;200101;200107;ILT Incapacidad Laboral Temporaria;1;1
+1;200108;999999;ILT Incapacidad Laboral Temporaria;1;1
+2;200101;999999;ILPPP Incapacidad Laboral Permanente Parcial Provisoria.;1;0
+3;200101;999999;ILPPD Incapacidad Laboral Permanente Parcial Definitiva.;1;0
+4;200101;200105;ILPTP Incapacidad Laboral Permanente Total Provisoria;1;0
+4;200106;999999;ILPTP Incapacidad Laboral Permanente Total Provisoria;1;0
+5;200101;999999;Capital de recomposición Art. 15, ap. 3, Ley 24557;0;0
+6;200309;999999;"""Ajuste Definitivo ILPPD de pago mensual""";1;0
+7;200402;999999;RENTA PERIODICA ILPPD Inc Lab Perm Parc Def   >50%<66%;1;0
+8;200402;999999;SRT/SSN F.Garantía/F Reserva  ILT Incapacidad Laboral Temporaria;1;1
+9;200402;999999;SRT/SSN F.Garantía/F Reserva   ILPPP Inc Lab Perm Parc Prov;1;0
+10;200402;999999;SRT/SSN F.Garantía/F Reserva   ILPTP Inc Lab Perm Total Prov;1;0
+11;200402;999999;SRT/SSN F.Garantía/F Reserva   ILPPD Inc Laboral Perm Parc Definitiva;1;0
+12;200103;999999;ILPPD Beneficios devengados  art. 11 p.4;1;0
+13;200108;999999;INFORME Incremento salarial de trabajador siniestrado a ART;0;0

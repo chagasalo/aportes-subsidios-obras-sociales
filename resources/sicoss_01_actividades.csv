@@ -1,0 +1,243 @@
+Código;Desde;Hasta;Descripción;APORTES O.S.;CONTRIBUCIONES O.S.
+00;200111;200209;Zona de Desastre. Decreto 1386/01;1;1
+00;200210;999999;Zona de Desastre. Decreto 1386/01 excepto actividad agropecuaria;1;1
+1;199407;200209;Producción Primaria;1;1
+1;200210;999999;Producción Primaria excepto actividad agropecuaria;1;1
+2;199407;999999;Producción de bienes sin comercialización;1;1
+3;199407;999999;Construcción de inmuebles;1;1
+4;199407;999999;Turismo;1;1
+5;199407;999999;Investigación  Científica y Tecnológica;1;1
+6;199407;999999;Administración  Publica. CON OBRA SOCIAL 23660;1;1
+7;199407;199804;Enseñanza Privada L.13047;1;1
+7;199805;200005;Enseñanza Privada L.13047;1;1
+7;200006;999999;Enseñanza Privada L.13047 no comprendidos en el D 137/05;1;1
+8;199407;999999;Servicio Doméstico;1;1
+9;199407;200005;Inc b) art 12  Ley 19316 ISSARA mod. Ley 22673;1;1
+9;200906;999999;Servicios energéticos Res.MTESS 268 y 824/09;1;1
+10;199407;200005;Personal de.Dirección RG 4158 Art10;1;1
+10;200501;999999;UNIVERSIDADES PRIVADAS. Personal no  Docente D.1123/99;1;1
+11;199407;999999;Personal  Permanente Discont. Empresas de Servicios  Eventuales;1;1
+12;199407;199804;PIT -Programas  Intensivos de Trabajo;1;1
+12;199805;999999;PIT -Programas  Intensivos de Trabajo;1;1
+13;199407;999999;Personal embarcado.;1;1
+14;199811;999999;Personal embarcado Dec 1255 S/res SSS 18/99;0;0
+15;199606;200902;L.R.T.-Directores SA, municipios, org, cent y descent. Emp mixt provin y otros-;0;0
+15;200903;999999;L.R.T.-Directores SA, municipios, org, cent y descent. Emp mixt provin y otros-;1;1
+16;199407;999999;No obligados con el SIJP (colegios, reciprocidad previsional y otros);1;1
+17;199407;999999;Obligados al SIJP -sin Obra Social Nacional (Adm Púb y otros);0;0
+18;199508;999999;Provincia incorporada al SIJP sin obra social nacional con ART;0;0
+19;199508;999999;Provincia incorporada al SIJP sin obra social nacional sin ART;0;0
+20;200007;999999;Ley N° 24.331 Zona Franca;1;1
+21;199407;999999;Dec N° 1024/93 Empr del Estado, Org. y Entes Públicos con OS y FNE;1;1
+22;199407;999999;Dec N° 1024/93 Empr del Estado, Org. y Entes Públicos sin OS y con FNE;0;0
+23;199607;200012;ILT para actividad 21;1;1
+24;199607;200012;ILPPP o ILPPD para actividad 21;1;0
+25;199607;200012;ILPTP para actividad 21;1;0
+26;199607;200012;ILT para actividad 22;0;0
+27;199407;200703;Servicio exterior  Ley N° 22731;1;1
+27;200704;202003;Servicio exterior  Ley N° 22731;1;1
+27;202004;999999;Servicio exterior  Ley N° 22731;1;1
+28;199607;200012;ILPTP para actividad 22;0;0
+29;200210;999999;Personal embarcado Dec 1255 S/res SSS 18/99  con Obra Social;1;1
+30;200306;201801;AFA Decreto Nº 1212/03. Aportante autonomo;0;0
+30;201802;201812;AFA Decreto Nº 1212/03. Aportante autonomo;0;0
+30;201901;201912;AFA Decreto Nº 1212/03. Aportante autonomo;0;0
+30;202001;202310;AFA Decreto Nº 1212/03. Aportante autonomo;0;0
+30;202311;999999;AFA Regimen especial. Aportante autonomo;0;0
+31;200204;999999;Trabajador rural de la Armada Argentina Ley 26727;1;1
+32;199407;200703;CSJN Corte Supr de Justicia, Magistrados provinciales, Revisores de Cta;0;0
+32;200704;200704;CSJN Corte Supr de Justicia, Magistrados provinciales, Revisores de Cta;0;0
+32;200705;202003;CSJN Corte Supr de Justicia, Magistrados provinciales, Revisores de Cta con ART;0;0
+32;202004;999999;CSJN Corte Supr de Justicia, Magistrados provinciales, Revisores de Cta con ART;0;0
+33;199407;999999;Representante gremial en uso de licencia;0;0
+34;200505;999999;Docentes estatales nacionales. CON OBRA SOCIAL 23660- Dec 137/05;1;1
+35;200505;999999;Docentes estatales nacionales.SIN OBRA SOCIAL 23660 Dec 137/05;0;0
+36;200505;999999;Invest cientifico/tecnológico/docente universitario estatal nacional CON OBRA SOCIAL 23660 Dec 160/05-;1;1
+37;200505;999999;Invest cientifico/tecnológico/docente universitario  estatal nacional SIN OBRA SOCIAL 23660 Dec 160/05-;0;0
+38;200505;999999;Docentes privados  Res 71/99 SSS - Dec 137/05;1;1
+39;200505;999999;No docentes privados Res 71/99 SSS;1;1
+40;200409;999999;Industria del software Ley N° 25922;1;1
+41;200105;202408;Trabajador de la Construcción Ley 25345 art. 36;1;1
+42;199407;999999;Asignaciones  Familiares y FNE con Obra Social Nacional (Ley 15223);1;1
+43;199407;999999;Asignaciones  Familiares y FNE sin Obra Social Nacional (Ley 15223);0;0
+44;199407;999999;Ley N° 24061 Dto.249/92;0;0
+45;199508;999999;Provincia incorporada al SIJP con obra social nacional con ART;1;1
+46;199508;999999;Provincia incorporada al SIJP  CON obra social nacional SIN ART;1;1
+47;199407;999999;Ley Nº 15223 con obra social;1;1
+48;199407;999999;Regimen nacional sin obra social nacional;0;0
+49;199407;999999;Actividades no clasificadas;1;1
+50;199607;200012;ILT p/ actividades 01 * 02 * 03 * 04* 05 * 11* 13 * 49;1;1
+50;200903;999999;POLICIA DE LA RIOJA;1;1
+51;199607;200012;ILT p/ actividad 06 *92 * 93;1;1
+51;200903;999999;POLICIA DE JUJUY;1;1
+52;199805;200012;ILT p/ actividad 12;1;1
+52;200903;999999;POLICIA DE TUCUMAN;1;1
+53;199607;200012;ILT p/ actividad 16;1;1
+53;200903;999999;POLICIA DE CATAMARCA;1;1
+54;199607;200012;ILT p/ actividad 17;0;0
+54;200903;999999;POLICIA DE RIO NEGRO;1;1
+55;199610;200012;ILT p/ actividad 18 * 19;0;0
+55;200903;999999;POLICIA DE MENDOZA;1;1
+56;199610;200012;ILT  p/actividades 45 * 46;1;1
+56;200903;200912;POLICIA DE SANTIAGO DEL ESTERO;1;1
+56;201001;999999;POLICIA DE SANTIAGO DEL ESTERO;1;1
+57;199607;200012;ILT p/ actividad 47;1;1
+57;200903;999999;POLICIA DE SALTA;1;1
+58;199607;200012;ILT p/ actividad 48;0;0
+58;200903;201902;POLICIA DE SAN JUAN;1;1
+58;201903;999999;POLICIA DE SAN JUAN;1;1
+59;199607;200012;ILT  p/actividad 95;0;0
+59;200903;201405;POLICIA DE SAN LUIS;1;1
+59;201406;999999;POLICIA DE SAN LUIS;1;1
+60;199607;200012;ILPPP  p/ actividades 01 * 02 * 03 * 04* 05 *11* 13 * 49;1;0
+60;200903;201405;SERVICIO PENITENCIARIO DE SAN LUIS;1;1
+60;201406;999999;SERVICIO PENITENCIARIO DE SAN LUIS;1;1
+61;199607;200012;ILPPP o ILPPD p/actividades 06 * 92 * 93;1;0
+61;200901;999999;POLICIA METROPOLITANA DEL GOBIERNO DE LA CIUDAD DE BS AS;0;0
+62;199805;200012;ILPPP o ILPPD p/actividad 12;1;0
+62;200901;999999;Personal sin estado policial POLICIA METROPOLITANA DEL GOB.CIUDAD DE BS AS;0;0
+63;199607;200012;ILPPP o ILPPD p/actividad 16;1;0
+63;200903;999999;SERVICIO PENITENCIARIO DE LA RIOJA;1;1
+64;199607;200012;ILPPP o ILPPD p/actividad 17;0;0
+64;200903;999999;SERVICIO PENITENCIARIO DE JUJUY;1;1
+65;199607;200012;ILPPP o ILPPD p/actividad 18 * 19  provincia;0;0
+65;200903;999999;SERVICIO PENITENCIARIO DE TUCUMAN;1;1
+66;199607;200012;ILPPP o ILPPD p/actividad 45*46 provincia;1;0
+66;200903;999999;SERVICIO PENITENCIARIO DE CATAMARCA;1;1
+67;199607;200012;ILPPPo ILPPD p/actividad  47;1;0
+67;200903;999999;SERVICIO PENITENCIARIO DE RIO NEGRO;1;1
+68;199607;200012;ILPPPo ILPPD p/actividad  48;0;0
+68;200903;999999;SERVICIO PENITENCIARIO DE MENDOZA;1;1
+69;199607;200012;ILPPP o ILPPDD p/actividad 95;0;0
+69;200507;999999;Legisladores nacionales (diputados y senadores);1;1
+70;199607;200012;ILPPD p/ actividades 01 * 02 * 03 * 04* 05 *11* 13 * 49;1;0
+70;200903;200912;SERVICIO PENITENCIARIO DE  SANTIAGO DEL ESTERO;1;1
+70;201001;999999;SERVICIO PENITENCIARIO DE  SANTIAGO DEL ESTERO;1;1
+71;199610;200012;ILPTP p/ actividades 18*19;0;0
+71;200903;999999;SERVICIO PENITENCIARIO DE  SALTA;1;1
+72;199610;200012;ILPTP p/ actividades 45 * 46;1;0
+72;200903;999999;SERVICIO PENITENCIARIO DE  SAN JUAN;1;1
+73;199607;200012;ILT p/actividad 91;1;1
+73;201601;999999;Internas Unidad 31 c/Asignaciones Familiares;0;0
+74;199607;200012;ILPPP o ILPPD p/actividad 91;1;0
+75;200505;999999;Docente de Prov incorporada/SIJP S/obra social nacional C/ART Dec 137/05;0;0
+76;200505;999999;Docente de Prov incorporada/SIJP S/obra social nacional S/ART Dec 137/05;0;0
+77;200505;999999;Docente de Prov incorporada/SIJP c/obra social nacional c/ART Dec 137/05;1;1
+78;200505;999999;Investig cientif/tecnológ/docente univ Prov incorp/SIPA S/O.Social Nac c/ART -Dec 160/05;0;0
+79;200505;999999;Investigador cientif/tecnológ/Prov incorporada al SIJP c/O Social NAC c/ART -Dec 160/05;1;1
+80;199607;200012;ILPTP p/ actividades 01 * 02 * 03 * 04* 05 *11*  13 * 49 * 91;1;0
+81;199805;200012;ILPTP p/ actividad 12;1;0
+81;200507;200703;Funcionarios del Poder Judicial de la Nación Ley N° 24018;0;0
+81;200704;200704;Funcionarios del Poder Judicial de la Nación Ley N° 24018;0;0
+81;200705;202003;Funcionarios del Poder Judicial de la Nación Ley N° 24018;0;0
+81;202004;999999;Funcionarios del Poder Judicial de la Nación Ley N° 24018;0;0
+82;199607;200012;ILPTP p/ actividades 17;0;0
+82;200507;999999;Funcionarios del Poder Ejecutivo  y otros Ley N° 24018;1;1
+83;199607;200012;ILPTP p/ actividades 06 * 16  * 92 Y 93;1;0
+83;200212;200703;Presidente de la Nacion y Vicepresidente de la Nación;1;1
+83;200704;999999;Presidente de la Nacion y Vicepresidente de la Nación;1;1
+84;199607;200012;ILPTP p/ actividad 47;1;0
+84;200505;999999;Docentes privados  Res 71/99 SSS - Dec 137/05 sin Obra Social;0;0
+85;199607;200012;ILPTP p/ actividad 48;0;0
+85;200212;200703;Magistrados provinciales, Revisores de Cta -docentes;1;1
+85;200704;200704;Magistrados provinciales, Revisores de Cta -docentes;1;1
+85;200705;202003;Magistrados provinciales, Revisores de Cta -docentes con ART;1;1
+85;202004;999999;Magistrados provinciales, Revisores de Cta -docentes con ART;1;1
+86;199607;200012;ILPTP p/ actividad 95;0;0
+86;200704;999999;Decreto 1474/2007 actividad minera;1;1
+87;199910;200012;ILT p/ actividad 97;1;1
+87;200910;999999;Ley 26508 docentes universitarios con Obra Social Nacional;1;1
+88;199910;200012;ILPPPo ILPPD p/actividad  97;1;0
+88;200910;999999;Ley 26508 docentes universitarios Sin Obra Social Nacional;0;0
+89;199910;200012;ILPTP p/ actividad 97;1;0
+90;199607;200012;ILT o ILPPP o ILPPD o ILPTP p/actividad 15;0;0
+91;199407;999999;Regimen previsional propio.  Obra Social L.23660 Y 24714;1;1
+92;199805;999999;Res 71/99 SSS y otros;1;1
+93;199910;999999;UNIVERSIDADES PRIVADAS. Personal Docente D.1123/99;1;1
+94;199910;999999;Decreto 953/99;1;1
+95;199407;999999;Ley Nº 15223 sin obra social;0;0
+96;199902;199907;Pers. Permanente Discontinuo Serv Eventuales Alcanzados p/ DtoN° 96/99;1;1
+97;199912;200203;Trabajador Agrario. Ley 25191;1;1
+97;200204;999999;Trabajador Agrario. Ley 26727;1;1
+98;200210;999999;Zona de Desastre Decreto N° 1386/01. Actividad Agropecuaria Ley N°26727;1;1
+99;201201;201612;Trabajador Agrario (excluido Ley 26727);1;1
+99;201701;999999;Trabajador Agrario Ley 25191;1;1
+100;200705;202003;CSJN Corte Supr de Justicia, Magistrados provinciales, Revisores de Cta sin ART;0;0
+100;202004;999999;CSJN Corte Supr de Justicia, Magistrados provinciales, Revisores de Cta sin ART;0;0
+101;200705;202003;Magistrados provinciales, Revisores de Cta -docentes sin ART;1;1
+101;202004;999999;Magistrados provinciales, Revisores de Cta -docentes sin ART;1;1
+102;201701;999999;Zona de Desastre Decreto N° 1386/01. Actividad Agropecuaria Ley N° 25191;1;1
+103;201701;999999;Trabajador Agrario Ley 23808 y otros regímenes;1;1
+104;201701;999999;Zona de Desastre Decreto N° 1386/01. Actividad Agropecuaria Ley N° 23808 y otros regímenes;1;1
+105;201307;999999;Dto. 637/13. Personal civil de las Fuerzas Armadas y de Seguridad excepto personal civil docente perteneciente a otra OS;0;0
+106;199407;999999;Administración Pública CON OBRA SOCIAL 23660 (con PAMI) Tipo de empleador especial;1;1
+107;200906;999999;Serv. energéticos Res. MTESS 268 y 824/09 Empr del Estado, Org. y Entes Públicos (Dto. 1024/93) s/OS, c/FNE s/ As. Fs.;0;0
+108;200906;999999;Serv. energéticos Res. MTESS 268 y 824/09 Emp. del estado y Org. y Entes públicos ( Dto. 1024/93) con OS y FNE sin As. Fs.;1;1
+109;200906;999999;Servicios energéticos Res.MTESS 268 y 824/09 - Provincias (sin PAMI y sin OS);0;0
+110;200906;999999;Servicios energéticos Res.MTESS 268 y 824/09 - Provincias con OS;1;1
+111;200906;999999;Servicios energéticos Res.MTESS 268 y 824/09 - Provincias (sin PAMI y sin OS) sin ART;0;0
+112;200906;999999;Servicios energéticos Res.MTESS 268 y 824/09 - Provincias con OS sin ART;1;1
+113;201609;201612;Policía Federal del Gobierno de la Ciudad de Buenos Aires;0;0
+113;201701;999999;Policía Federal del Gobierno de la Ciudad de Buenos Aires;0;0
+117;199407;999999;Obligados al SIJP -sin Obra Social Nacional (Adm Púb y otros) y SIN PAMI - Tipo de empleador especial;0;0
+118;201804;201909;Acuerdo preventivo de crisis;1;1
+119;201811;999999;Detracción especial - Ley Nº 27430 - Textiles;1;1
+120;201903;999999;Detracción Ampliada - Dcto. 128/2019;1;1
+122;201903;999999;Trabajador Agrario. Ley 26727 - Detracción Ampliada Dcto. 128/2019;1;1
+123;201903;999999;Trabajador Agrario Ley 25191 - Detracción Ampliada Dcto. 128/2019;1;1
+124;201903;999999;Trabajador Agrario Ley 23808 y otros regímenes - Detracción Ampliada Dcto. 128/2019;1;1
+125;201903;202002;Actividades no clasificadas-Detracción Ampliada - Dcto. 688/2019;1;1
+125;202003;202012;Actividades no clasificadas-Detracción Ampliada - Dcto. 688/2019 y Dcto. 300/2020;1;1
+125;202101;202208;Actividades no clasificadas-Detracción Ampliada - Dcto. 688/2019 - Dcto. 34/2021 - Dcto 242/2021;1;1
+125;202209;202302;Actividades no clasificadas-Detracción Ampliada - Dcto. 688/2019 - Dcto. 577/2022;1;1
+125;202303;202312;Actividades no clasificadas-Detracción Ampliada - Dcto. 688/2019 - Dcto. 131/2023;1;1
+125;202401;999999;Actividades no clasificadas-Detracción Ampliada - Dcto. 688/2019;1;1
+126;201903;202002;Ley Nº 15223 con obra social-Detracción Ampliada - Dcto. 688/2019.;1;1
+126;202003;202012;Ley Nº 15223 con obra social-Detracción Ampliada - Dcto. 688/2019 y Dcto. 300/2020;1;1
+126;202101;202208;Ley Nº 15223 con obra social-Detracción Ampliada - Dcto. 688/2019  -  Dcto. 34/2021 -  Dcto 242/2021;1;1
+126;202209;202302;Ley Nº 15223 con obra social-Detracción Ampliada - Dcto. 688/2019  -  Dcto. 577/2022;1;1
+126;202303;202312;Ley Nº 15223 con obra social-Detracción Ampliada - Dcto. 688/2019  -  Dcto. 131/2023;1;1
+126;202401;999999;Ley Nº 15223 con obra social-Detracción Ampliada - Dcto. 688/2019;1;1
+127;202003;202012;Actividades no clasificadas - Sector Salud Dcto. 300/2020;1;1
+127;202101;202208;Actividades no clasificadas - Sector Salud Dcto. 34/2021  -  Dcto 242/2021 - Dcto 903/2021 - Dcto 359/2022;1;1
+127;202209;202302;Actividades no clasificadas - Sector Salud Dcto. 577/2022;1;1
+127;202303;202312;Actividades no clasificadas - Sector Salud Dcto. 131/2023;1;1
+128;202003;202012;Ley Nº 15223 con obra social - Sector Salud Dcto. 300/2020;1;1
+128;202101;202208;Ley Nº 15223 con obra social - Sector Salud Dcto. 34/2021  -  Dcto 242/2021 - Dcto 903/2021 - Dcto 359/2022;1;1
+128;202209;202302;Ley Nº 15223 con obra social - Sector Salud Dcto. 577/2022;1;1
+128;202303;202312;Ley Nº 15223 con obra social - Sector Salud Dcto. 131/2023;1;1
+129;202003;202312;Actividades no clasificadas-Detracción Ampliada - Dcto. 688/2019;1;1
+130;202003;202312;Ley Nº 15223 con obra social-Detracción Ampliada - Dcto. 688/2019;1;1
+131;201608;999999;Regimen previsional propio.  Obra Social L.23660 Y FNE;1;1
+132;202001;202912;Ley N° 27.506 Promoción de Economía del Conocimiento - Art. 8°;1;1
+133;202001;202912;Ley N° 27.506 Promoción de Economía del Conocimiento -Art. 9°;1;1
+134;202003;202012;Regimen nacional sin obra social nacional  - Sector Salud Dcto. 300/2020;0;0
+134;202101;202208;Regimen nacional sin obra social nacional  - Sector Salud Dcto. 34/2021  -  Dcto 242/2021 - Dcto 903/2021 - Dcto 359/2022;0;0
+134;202209;202302;Regimen nacional sin obra social nacional  - Sector Salud Dcto. 577/2022;0;0
+134;202303;202312;Regimen nacional sin obra social nacional  - Sector Salud Dcto. 131/2023;0;0
+135;202001;202912;Ley N° 27.506 Promoción de Economía del Conocimiento - Art. 8° - Dec N° 1024/93 Empr del Estado, Org. y Entes Públicos con OS y FNE;1;1
+136;202001;202912;Ley N° 27.506 Promoción de Economía del Conocimiento -Art. 9° - Dec N° 1024/93 Empr del Estado, Org. y Entes Públicos con OS y FNE;1;1
+137;202211;202712;Dec. 209/2022. - Bienes de Capital – Empleador NO Mipyme;1;1
+138;202309;202403;Actividades no clasificadas-Detracción Ampliada - Dcto. 688/2019 - Dcto. 478/2023;1;1
+139;202309;202403;Ley Nº 15223 con obra social-Detracción Ampliada - Dcto. 688/2019  -  Dcto. 478/2023;1;1
+140;202309;202403;Actividades no clasificadas - Sector Salud Dcto. 478/2023;1;1
+141;202309;202403;Ley Nº 15223 con obra social - Sector Salud Dcto. 478/2023;1;1
+142;202309;202403;Regimen nacional sin obra social nacional  - Sector Salud Dcto. 478/2023;0;0
+143;201711;999999;Regimen nacional sin obra social nacional, INSSJP y AAFF;0;0
+901;201201;999999;Poder judicial (sin ART);0;0
+902;201201;999999;Poder judicial (con ART);0;0
+903;201201;999999;Poder Legislativo (sin ART);0;0
+904;201201;999999;Poder Legislativo (con ART);0;0
+905;201201;999999;Empleo público en gral (sin ART);0;0
+906;201201;999999;Empleo público en gral (con ART);0;0
+907;201201;999999;Docente (sin ART);0;0
+908;201201;999999;Docente (con ART);0;0
+909;201201;999999;Fuerza de seguridad (sin ART);0;0
+910;201201;999999;Fuerza de seguridad (con ART);0;0
+911;201201;999999;No clasificados (sin ART);0;0
+912;201201;999999;No clasificados (con ART);0;0
+913;201201;999999;Prestadores de servicios (monotributo y/o autónomos);0;0
+914;201201;999999;Bombero voluntario. Pcia de Bs. As.Ley PBA 13.802 (sin ART);0;0
+915;201201;999999;Bombero voluntario. Pcia de Bs. As.Ley PBA 13.802 (con ART);0;0
+920;201201;999999;No obligados al SIPA - informativo (sin ART);0;0
+921;201201;999999;No obligados al SIPA - informativo (con ART);0;0

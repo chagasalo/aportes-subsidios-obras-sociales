@@ -1,0 +1,493 @@
+codigo;descripcion;contraconcepto;debito_credito
+ANT;Importe correspondiente al anticipo de rezago - Decreto 1901/2006.;;C
+COM;Importe correspondiente a comisiones;;D
+041;Contribucion Obra Social;540;C
+190;Intereses de Rezago de Obras Sociales;690;C
+351;Agentes de Retencion / Intereses Resarcitorios de Contrib.O.S.;851;C
+352;Agentes de Retencion / Intereses Resarcitorios de Contrib.O.S. Adicional;852;C
+354;Agentes de Retencion / Intereses s/Intereses de Contrib.O.S.;854;C
+355;Agentes de Retencion / Intereses s/ Intereses de Contrib.O.S. Adicional;855;C
+357;Agentes de Retencion / Intereses Financ.de Contrib.O.S.;857;C
+358;Agentes de Retencion / Intereses Financ.de Contrib.O.S. Adicional;858;C
+360;Agentes de Retencion / Intereses Multa Art.43 Contrib.O.S.;860;C
+361;Agentes de Retencion / Intereses Multa Art.43 Contrib.O.S. Adicional;861;C
+363;Agentes de Retencion / Intereses Multa Art.42 Contrib.O.S.;863;C
+364;Agentes de Retencion / Intereses Multa Art.42 Contrib.O.S. Adicional;864;C
+373;Agentes de Retencion / Intereses Punitorios de Contrib.O.S.;873;C
+374;Agentes de Retencion / Intereses Punitorios de Contrib.O.S. Adicional;874;C
+376;Agentes de Retencion / Intereses Multa RG.3756 Contrib.O.S.;876;C
+377;Agentes de Retencion / Intereses Multa RG.3756 Contrib.O.S. Adicional;877;C
+381;Aportes de Obra Social;881;C
+383;Aportes de Obra Social /Int. Resarcitorios;883;C
+385;Aportes Obra Social Int. Punitorios;885;C
+386;Multa RG 3756-Aportes de Obra Social;886;C
+387;Multa Art.42.de Aportes de Obra Socia;887;C
+389;Multa Art.43.de Aportes de Obra Social;889;C
+401;Contribucion Obra Social;901;C
+404;Contrib. Adicional Obra Social;904;C
+406;Contrib.Obra Social /Int. Resarcitorios;906;C
+407;Multa RG 3756-Contrib.Obra Social;907;C
+408;Multa Art.43.de Contrib.Obra Social;908;C
+409;Agentes de Retencion / Multa Art.42.de Contrib.Obra Social;909;C
+410;Contribuciones Obra Social (Dto.1273/02) Incremento $100 (Capital);910;C
+411;Contribuciones Obra Social (Dto.1273/02) Incremento $100 (Interés);911;C
+416;Contrib.Obra Social Adicional /Int. Resarcitorios;916;C
+417;Multa RG 3756-Contrib.Obra Social Adicional;917;C
+418;Multa Art.43.de Contrib.Obra Social Adicional;918;C
+419;Agentes de Retencion / Multa Art.42.de Contrib.Obra Social Adicional;919;C
+443;Contrib. Obra Social Int. Punitorios;943;C
+452;Transferencia Servicio Domestico;952;C
+453;Contrib. Adic.Obra Social Int. Punitorios;953;C
+454;Serv.Domest. Int. Resarcit.;954;C
+455;Serv.Domest. Int. Punit.;955;C
+461;Contribuciones Obra Social -Intereses Resar., Cap. y Punit.(Redistr. por aplic. Dto.10/2009);961;C
+471;Agentes de Retencion / Contrib.Obra Social;971;C
+474;Agentes de Retencion / Contrib.Obra Social Adicional;974;C
+480;Decreto 1273/02 - Agentes Ret. - Obra Social;980;C
+500;RG4057- Importe Direccionado a Obras Sociales Plan de Facilid. De Pago;504;C
+501;RG4057- Importe Direccionado a Obras Sociales Intereses Resarcitorios Plan;505;C
+502;RG4057- Importe Direccionado a Obras Sociales;506;C
+503;RG4057- Importe Direccionado a Obras Sociales Intereses Resarcitorios;507;C
+504;RG4057- Importe Direccionado a Obras Sociales Plan de Facilid. De Pago (Rev.);500;D
+505;RG4057- Importe Direccionado a Obras Sociales Intereses Resarcitorios Plan (Rev.);501;D
+506;RG4057- Importe Direccionado a Obras Sociales (Reversión);502;D
+507;RG4057- Importe Direccionado a Obras Sociales Intereses Resarcitorios (Rev.);503;D
+508;RG4057- Importe Direccionado a Obras Sociales Otros Conceptos;509;C
+509;RG4057- Importe Direccionado a Obras Sociales Otros Conceptos (Reversión);508;D
+540;Contribucion Obra Social (Reversión);041;D
+690;Intereses de Rezago de Obras Sociales (Reversión);190;D
+851;Agentes de Retencion / Intereses Resarcitorios de Contrib.O.S.(Reversión);351;D
+852;Agentes de Retencion / Intereses Resarcitorios de Contrib.O.S.Adicional(Rev.);352;D
+854;Agentes de Retencion / Intereses s/Intereses de Contrib.O.S. (Reversión);354;D
+855;Agentes de Retencion / Intereses s/ Intereses de Contrib.O.S.Adicional(Reversión);355;D
+857;Agentes de Retencion / Intereses Financ.de Contrib.O.S.(Reversión);357;D
+858;Agentes de Retencion / Intereses Financ.de Contrib.O.S.Adicional(Reversión);358;D
+860;Agentes de Retencion / Intereses Multa Art.43 Contrib.O.S. (Reversión);360;D
+861;Agentes de Retencion / Intereses Multa Art.43 Contrib.O.S. Adicional (Reversión);361;D
+863;Agentes de Retencion / Intereses Multa Art.42 Contrib.O.S. (Reversión);363;D
+864;Agentes de Retencion / Intereses Multa Art.42 Contrib.O.S. Adicional (Reversión);364;D
+873;Agentes de Retencion / Intereses Punitorios de Contrib.O.S.(Reversión);373;D
+874;Agentes de Retencion / Intereses Punitorios de Contrib.O.S.Adicional(Reversión);374;D
+876;Agentes de Retencion / Intereses Multa RG.3756 Contrib.O.S. (Reversión);376;D
+877;Agentes de Retencion / Intereses Multa RG.3756 Contrib.O.S. Adicional (Reversión);377;D
+881;Aportes de Obra Social (Reversión);381;D
+883;Aportes de Obra Social /Int. Resarcitorios (Reversión);383;D
+885;Aportes Obra Social Int. Punitorios (Reversión);385;D
+886;Multa RG 3756-Aportes de Obra Social (Reversión);386;D
+887;Multa Art.42.de Aportes de Obra Social (Reversión);387;D
+889;Multa Art.43.de Aportes de Obra Social (Reversión);389;D
+901;Contribucion Obra Social (Reversión);401;D
+904;Contrib. Adicional Obra Social (Reversión);404;D
+906;Contrib.Obra Social /Int. Resarcitorios (Reversión);406;D
+907;Multa RG 3756-Contrib.Obra Social (Reversión);407;D
+908;Multa Art.43.de Contrib.Obra Social (Reversión);408;D
+909;Agentes de Retencion / Multa Art.42.de Contrib.Obra Social (Reversión);409;D
+910;Contribuciones Obra Social (Dto.1273/02) Incremento $100 (Capital) (Reversión);410;D
+911;Contribuciones Obra Social (Dto.1273/02) Incremento $100 (Interés) (Reversión);411;D
+916;Contrib.Obra Social Adicional /Int. Resarcitorios (Reversión);416;D
+917;Multa RG 3756-Contrib.Obra Social Adicional (Reversión);417;D
+918;Multa Art.43.de Contrib.Obra Social Adicional (Reversión);418;D
+919;Agentes de Retencion / Multa Art.42.de Contrib.Obra Social Adicional (Reversión);419;D
+943;Contrib. Obra Social Int. Punitorios (Reversión);443;D
+952;Transferencia Servicio Domestico (Reversión);452;D
+953;Contrib. Adic.Obra Social Int. Punitorios (Reversión);453;D
+954;Serv.Domest. Int. Resarcit. (Reversión);454;D
+955;Serv.Domest. Int. Punit. (Reversión);455;D
+961;Contribuciones Obra Social -Intereses Resar., Cap. y Punit.(Redistr. por aplic. Dto.10/2009);461;D
+971;Agentes de Retencion / Contrib.Obra Social (Reversión);471;D
+974;Agentes de Retencion / Contrib.Obra Social Adicional (Reversión);474;D
+980;Decreto 1273/02 - Agentes Ret. - Obra Social (Reversión);480;D
+C14;Monotrib.Autonomo-Aportes Volunt. de Obra Social;D14;C
+C16;Monotrib.Autonomo-Boleta de Deuda de Aportes de Obra Social;D16;C
+C17;Monotrib.Autonomo-Ajuste a Aportes de Obra Social por pago Cpto '078';D17;C
+C19;Monotrib.Autonomo-Intereses Resarcitorios de Aportes de Obra Social;D19;C
+C21;Monotrib.Autonomo-Intereses Punitorios de Aportes de Obra Social;D21;C
+C24;Monotrib.Autonomo-Retenciones de Aportes Volunt. de Obra Social;D24;C
+C27;Monotrib.Autonomo-Aportes Volunt. de Obra Social x Grupo Fam.;D27;C
+C28;Monotrib.Autonomo-Intereses Resarcitorios de Aportes Volunt. de Obra Social;D28;C
+C29;Monotrib.Autonomo-Aportes Volunt. de Obra Social x Adherentes;D29;C
+C30;Monotrib.Autonomo-Intereses Resarcit. de Aportes Volunt. de Obra Social x Adherentes;D30;C
+C32;Monotrib.Autonomo-Intereses Financieros de Aportes de Obra Social;D32;C
+C40;Morat. / Monotrib.Autonomo-Aportes de Obra Social;D40;C
+C41;Morat. / Monotrib.Autonomo-Int. Resarcitorios de Aportes de Obra Social;D41;C
+C42;Morat. / Monotrib.Autonomo-Int. Punitorios de Aportes de Obra Social;D42;C
+C43;Morat. / Monotrib.Autonomo-Int. Financieros de Aportes de Obra Social;D43;C
+C45;Monotributo autonomos - moratoria- Intereses resarcitorios de aporte de obr;D45;C
+C46;Monotributo autonomos - moratoria- Aporte de obra social por grupo familiar;D46;C
+C47;Monotributo autonomos - moratoria- Intereses resarcitorios de aporte de obr;D47;C
+C48;Monotributo autonomos - moratoria- Aporte de obra social por adherente;D48;C
+C50;Monotributo autonomos - moratoria- Ajuste de aporte de obra social;D50;C
+C51;Monotributo autonomos multa aportes obra social;D51;C
+C52;Monotributo autonomos - moratoria- Pago a cuenta de aporte de obra social;D52;C
+C65;Monotributo autónomo - Ley 2585 - Moratoria - OS intereses capitalizados;D65;C
+C68;Monotributo autónomo - Ley 2585 - Moratoria - OS intereses punitorios;D65;C
+C69;Monotributo autónomo - Ley 2585 - Moratoria - OS Multa;D69;C
+C72;Morat. 93/00/ Intereses Capitalizables de Aportes De Obra Social;D72;C
+C79;Monotrib. Autonomo/ Intereses Capitalizables de Aportes De Obra Social;D79;C
+C81;Monotributo Ley 27618 Monto adicional ICS 24/786/786 Obras Sociales (90%) capital;D81;C
+C83;Monotributo Ley 27618 Monto adicional ICS 24/786/51 Obras Sociales 90% (interes resarcitorio);D83;C
+C85;Monotributo Ley 27618 Monto adicional ICS 24/786/94 Obras Sociales 90% (intereses punitorio);D85;C
+C87;Monotributo Ley 27618 Monto adicional ICS 24/786/108 Obras Sociales 90% (multa);D87;C
+C89;Monotributo Ley 27618 Monto adicional ICS 24/786/51 Obras Sociales 90% (interes capitalizable);D89;C
+D14;Monotrib.Autonomo-Aportes Volunt. de Obra Social (Reversión);C14;D
+D16;Monotrib.Autonomo-Boleta de Deuda de Aportes de Obra Social (Reversión);C16;D
+D17;Monotrib.Autonomo-Ajuste a Aportes de Obra Social por pago Cpto '078' (Reversión);C17;D
+D19;Monotrib.Autonomo-Intereses Resarcitorios de Aportes de Obra Social (Reversión);C19;D
+D21;Monotrib.Autonomo-Intereses Punitorios de Aportes de Obra Social (Reversión);C21;D
+D24;Monotrib.Autonomo-Retenciones de Aportes Volunt. de Obra Social (Reversión);C24;D
+D27;Monotrib.Autonomo-Aportes Volunt. de Obra Social x Grupo Fam. (Reversión);C27;D
+D28;Monotrib.Autonomo-Intereses Resarcitorios de Aportes Volunt. de Obra Social(Reversión);C28;D
+D29;Monotrib.Autonomo-Aportes Volunt. de Obra Social x Adherentes (Reversión);C29;D
+D30;Monotrib.Autonomo-Intereses Resarcitorios de Aportes Volunt. de Obra Social(Reversión);C30;D
+D32;Monotrib.Autonomo-Intereses Financieros de Aportes de Obra Social (Reversión);C32;D
+D40;Morat. / Monotrib.Autonomo-Aportes de Obra Social (Reversión);C40;D
+D41;Morat. / Monotrib.Autonomo-Int. Resarcitorios de Aportes de Obra Social (Reversión);C41;D
+D42;Morat. / Monotrib.Autonomo-Int. Punitorios de Aportes de Obra Social (Reversión);C42;D
+D43;Morat. / Monotrib.Autonomo-Int. Financieros de Aportes de Obra Social (Reversión);C43;D
+D45;Monot.autonomos-moratoria-Intereses resarcitorios de aporte ob.soc.grupo (Reversión);C45;D
+D46;Monot.autonomos-moratoria-Aporte de obra social por grupo familiar (Reversión);C46;D
+D47;Monot.autonomos-moratoria-Intereses resarcitorios de aporte ob.soc.adh (Reversión);C47;D
+D48;Monot.autonomos-moratoria-Aporte de obra social por adherente (Reversión);C48;D
+D50;Monot.autonomos-moratoria-Ajuste de aporte de obra social - (Reversión);C50;D
+D51;Monotributo autonomos multa aportes obra social (Reversión);C51;D
+D52;Monot.autonomos-moratoria-Pago a cuenta de aporte de obra social (Reversión);C52;D
+D65;Monotributo autónomo - Ley 2585 - Moratoria - OS intereses capitalizados (Reversión);C65;D
+D68;Monotributo autónomo - Ley 2585 - Moratoria - OS intereses punitorios (Reversión);C68;D
+D69;Monotributo autónomo - Ley 2585 - Moratoria - OS Multa (Reversión);C69;D
+D72;Morat. 93/00/ Intereses Capitalizables de Aportes De Obra Social (Reversión);C72;D
+D79;Monotrib. Autonomo/ Intereses Capitalizables de Aportes De Obra Social (Reversión);C79;D
+D81;REV - Monotributo Ley 27618 Monto adicional ICS 24/786/786 Obras Sociales (90%) capital;C81;D
+D83;REV - Monotributo Ley 27618 Monto adicional ICS 24/786/51 Obras Sociales 90% (interes resarcitorio);C83;D
+D85;REV - Monotributo Ley 27618 Monto adicional ICS 24/786/94 Obras Sociales 90% (intereses punitorio);C85;D
+D87;REV - Monotributo Ley 27618 Monto adicional ICS 24/786/108 Obras Sociales 90% (multa);C87;D
+D89;REV - Monotributo Ley 27618 Monto adicional ICS 24/786/51 Obras Sociales 90% (interes capitalizable);C89;D
+F03;CCG-Agentes de Retención APORTES OS;V03;C
+F09;CCG-Agentes de Retención CONTRIB. OS;V09;C
+G14;Dto.938/97 Aportes de Obra Social;H14;C
+G15;Dto.938/97 Contrib. De Obra Social;H15;C
+G16;Dto.938/97 Contrib. De Obra Social Adicional;H16;C
+G22;Dto.938/97 / Intereses Resarcitorios de Aportes De Obra Social;H22;C
+G23;Dto.938/97 / Intereses Resarcitorios de Contrib. De Obra Social;H23;C
+G24;Dto.938/97 / Intereses Resarcitorios de Contrib. De Obra Social Adicional;H24;C
+G29;Dto.938/97 / Intereses s/Intereses de Aportes De Obra Social;H29;C
+G30;Dto.938/97 / Intereses s/Intereses de Contrib. De Obra Social;H30;C
+G31;Dto.938/97 / Intereses s/Intereses de Contrib. De Obra Social Adicional;H31;C
+G37;Dto.938/97 / Intereses Punitorios de Aportes De Obra Social;H37;C
+G38;Dto.938/97 / Intereses Punitorios de Contrib. De Obra Social;H38;C
+G39;Dto.938/97 / Intereses Punitorios de Contrib. De Obra Social Adicional;H39;C
+G43;Dto.938/97 - Multa Art.43 de Aportes De Obra Social;H43;C
+G44;Dto.938/97 - Multa Art.43 de Contribuciones De Obra Social;H44;C
+G45;Dto.938/97 - Multa Art.43 de Contribuciones De Obra Social Adicional;H45;C
+G48;Dto.938/97 - Multa Art.42 de Aportes De Obra Social;H48;C
+G49;Dto.938/97 - Multa Art.42 de Contribuciones De Obra Social;H49;C
+G50;Dto.938/97 - Multa Art.42 de Contribuciones De Obra Social Adicional;H50;C
+G55;Dto.938/97 / RG 3756 - de Aportes De Obra Social;H55;C
+G56;Dto.938/97 / RG 3756 - de Contrib. De Obra Social;H56;C
+G57;Dto.938/97 / RG 3756 - de Contrib. De Obra Social Adicional;H57;C
+G64;Dto.938/97 Ag. De Retencion / Contrib. De Obra Social;H64;C
+G65;Dto.938/97 Ag. De Retencion / Contrib. De Obra Social Adicional;H65;C
+G71;Dto.938/97 Ag. De Retencion / Contrib. De Obra Social;H71;C
+G75;Dto.938/97 / Intereses Financieros de Aportes De Obra Social;H75;C
+G76;Dto.938/97 / Intereses Financieros de Contrib. De Obra Social;H76;C
+G77;Dto.938/97 / Intereses Financieros de Contrib. De Obra Social Adicional;H77;C
+G94;Dto.938/97 / Intereses Punitorios de Obra Social;H94;C
+H14;Dto.938/97 Aportes de Obra Social (Reversión);G14;D
+H15;Dto.938/97 Contrib. De Obra Social (Reversión);G15;D
+H16;Dto.938/97 Contrib. De Obra Social Adicional (Reversión);G16;D
+H22;Dto.938/97 / Intereses Resarcitorios de Aportes De Obra Social (Reversión);G22;D
+H23;Dto.938/97 / Intereses Resarcitorios de Contrib. De Obra Social (Reversión);G23;D
+H24;Dto.938/97 / Intereses Resarcitorios de Contrib. De Obra Social Adicional (Reversión);G24;D
+H29;Dto.938/97 / Intereses s/Intereses de Aportes De Obra Social (Reversión);G29;D
+H30;Dto.938/97 / Intereses s/Intereses de Contrib. De Obra Social (Reversión);G30;D
+H31;Dto.938/97 / Intereses s/Intereses de Contrib. De Obra Social Adicional (Reversión);G31;D
+H37;Dto.938/97 / Intereses Punitorios de Aportes De Obra Social (Reversión);G37;D
+H38;Dto.938/97 / Intereses Punitorios de Contrib. De Obra Social (Reversión);G38;D
+H39;Dto.938/97 / Intereses Punitorios de Contrib. De Obra Social Adicional (Reversión);G39;D
+H43;Dto.938/97 - Multa Art.43 de Aportes De Obra Social (Reversión);G43;D
+H44;Dto.938/97 - Multa Art.43 de Contribuciones De Obra Social (Reversión);G44;D
+H45;Dto.938/97 - Multa Art.43 de Contribuciones De Obra Social Adicional (Reversión);G45;D
+H48;Dto.938/97 - Multa Art.42 de Aportes De Obra Social (Reversión);G48;D
+H49;Dto.938/97 - Multa Art.42 de Contribuciones De Obra Social (Reversión);G49;D
+H50;Dto.938/97 - Multa Art.42 de Contribuciones De Obra Social Adicional (Reversión);G50;D
+H55;Dto.938/97 / RG 3756 - de Aportes De Obra Social (Reversión);G55;D
+H56;Dto.938/97 / RG 3756 - de Contrib. De Obra Social (Reversión);G56;D
+H57;Dto.938/97 / RG 3756 - de Contrib. De Obra Social Adicional (Reversión);G57;D
+H64;Dto.938/97 Ag. De Retencion / Contrib. De Obra Social (Reversión);G64;D
+H65;Dto.938/97 Ag. De Retencion / Contrib. De Obra Social Adicional (Reversión);G65;D
+H71;Dto.938/97 Ag. De Retencion / Contrib. De Obra Social (Reversión);G71;D
+H75;Dto.938/97 / Intereses Financieros de Aportes De Obra Social (Reversión);G75;D
+H76;Dto.938/97 / Intereses Financieros de Contrib. De Obra Social (Reversión);G76;D
+H77;Dto.938/97 / Intereses Financieros de Contrib. De Obra Social Adicional (Reversión);G77;D
+H94;Dto.938/97 / Intereses Punitorios de Obra Social (Reversión);G94;D
+M05;Morat. 493 / Int. Financ. Obra Social (Reversión);M55;D
+M06;Contrib.Obra Social - Moratorias /Int. Resarcitorios;M16;C
+M08;Morat. 963 / Int. Resarcit. Obra Social (Reversión);M48;D
+M09;Morat. 963 / Int. Financieros (Reversión);M49;D
+M10;Morat. 493 / Int. Contribuciones Adicional Obra Social;M90;C
+M11;Morat. 270 /Contrib. Adicional Obra Social;M91;C
+M12;Morat. 270 / Aportes de Obra Social;M92;C
+M13;Morat. 270 /Contrib. Obra Social;M93;C
+M16;Contrib.Obra Social - Moratorias /Int. Resarcitorios (Reversión);M06;D
+M17;Aportes de Obra Social- Intereses de Moratoria;M57;C
+M30;Morat. 493 / Int. Resarcit. Obra Social (Reversión);M50;D
+M39;Contrib.Obra Social /Int. Financieros (Reversión);M59;D
+M48;Morat. 963 / Int. Resarcit. Obra Social;M08;C
+M49;Morat. 963 / Int. Financ. Obra Social;M09;C
+M50;Morat. 493 / Int. Resarcit. Obra Social;M30;C
+M55;Morat. 493 / Int. Financ. Obra Social;M05;C
+M57;Aportes de Obra Social- Intereses de Moratoria (Reversión);M17;D
+M59;Contrib.Obra Social /Int. Financieros;M39;C
+M90;Morat. 493 / Int. Contribuciones Adicional Obra Social (Reversión);M10;D
+M91;Morat. 270 /Contrib. Adicional Obra Social (Reversión);M11;D
+M92;Morat. 270 / Aportes de Obra Social (Reversión);M12;D
+M93;Morat. 270 /Contrib. Obra Social (Reversión);M13;D
+N13;Aportes Obra Social - Morat. 963;N63;C
+N14;Morat. 963 /Contrib. Obra Social;N64;C
+N15;Morat. 963 /Contrib. Adicional Obra Social;N65;C
+N20;Morat. 963 / Int. Contribuciones Obra Social;N70;C
+N21;Morat. 963 / Int. Contribuciones Adicional Obra Social;N71;C
+N22;Morat. 963 / Int. Financ. Obra Social;N72;C
+N33;Morat. 963 / Ag. De Ret. Contrib. Obra Social;N83;C
+N34;Morat. 963 / Ag. De Ret. Contrib. Adicional Obra Social;N84;C
+N63;Aportes Obra Social - Morat. 963 (Reversión);N13;D
+N64;Morat. 963 /Contrib. Obra Social (Reversión);N14;D
+N65;Morat. 963 /Contrib. Adicional Obra Social (Reversión);N15;D
+N70;Morat. 963 / Int. Contribuciones Obra Social (Reversión);N20;D
+N71;Morat. 963 / Int. Contribuciones Adicional Obra Social (Reversión);N21;D
+N72;Morat. 963 / Int. Financ. Obra Social (Reversión);N22;D
+N83;Morat. 963 / Ag. De Ret. Contrib. Obra Social (Reversión);N33;D
+N84;Morat. 963 / Ag. De Ret. Contrib. Adicional Obra Social (Reversión);N34;D
+O02;Servicio Domestico Aportes de Obras Sociales;P02;C
+O04;Servicio Domestico Intereses Resarcitorios Aportes de Obras Sociales;P04;C
+O06;Servicio Domestico Intereses Punitorios Aportes de Obras Sociales;P06;C
+O12;Servicio Domestico Aportes de Obras Sociales (Diferencia Aportes y Adherentes);P12;C
+O13;Servicio Domestico Int. Resarcit. Aportes de Obras Sociales (Difer. Aportes y Adherentes);P13;C
+O14;Servicio Domestico Aportes de Obras Sociales Grupo Familiar;P14;C
+O15;Servicio Domestico Intereses Resarcitorios Aportes de Obras Sociales Grupo Familiar;P15;C
+O16;Servicio Domestico Aportes de Obras Sociales Adherentes;P16;C
+O17;Servicio Domestico Intereses Resarcitorios Aportes de Obras Sociales Adherentes;P17;C
+O20;Servicio Domestico Intereses Financieros Aportes de Obras Sociales;P20;C
+O22;Morat. - Servicio Domestico Aportes/Contrib. Obras Sociales;P22;C
+O24;Morat. - Servicio Domestico Intereses Resarcitorios Aportes/Contrib. Obras Sociales;P24;C
+O26;Morat. - Servicio Domestico Intereses Financieros Aportes/Contrib. Obras Sociales;P26;C
+O60;Servicio Domestico Intereses Capitalizables Aportes Obra Social Grupo Familiar;P60;C
+O60;Servicio Domestico Intereses Capitalizables Aportes Obra Social Grupo Familiar (Reversión);P60;D
+O61;Servicio Domestico Intereses Capitalizables Aportes Obra Social Adherentes;P61;C
+O62;Servicio Domestico Intereses Capitalizables Aportes Voluntarios Obra Social;P62;C
+O68;Servicio Domestico Intereses Capitalizables Aportes Obra Social;P68;C
+OD1;Aportes pago direccionado a OS no incluida en nómina;OS1;D
+OD2;Intereses de Aportes pago direccionado a OS no incluida en nómina;OS2;D
+OD3;Contribuciones pago direccionado a OS no incluida en nómina;OS3;D
+OD4;Intereses de Contribuciones pago direccionado a OS no incluida en nómina;OS4;D
+OS1;Aportes pago direccionado a OS no incluida en nómina;OD1;C
+OS2;Intereses de Aportes pago direccionado a OS no incluida en nómina;OD2;C
+OS3;Contribuciones pago direccionado a OS no incluida en nómina;OD3;C
+OS4;Intereses de Contribuciones pago direccionado a OS no incluida en nómina;OD4;C
+P02;Servicio Domestico Aportes de Obras Sociales (Reversión);O02;D
+P04;Servicio Domestico Intereses Resarcitorios Aportes de Obras Sociales (Reversión);O04;D
+P06;Servicio Domestico Intereses Punitorios Aportes de Obras Sociales (Reversión);O06;D
+P12;Servicio Domestico Aportes de Obras Sociales (Reversión);O12;D
+P13;Servicio Domestico Intereses Resarcitorios Aportes de Obras Sociales (Reversión);O13;D
+P14;Servicio Domestico Aportes de Obras Sociales Grupo Familiar (Reversión);O14;D
+P15;Servicio Domestico Intereses Resarcitorios Aportes de Obras Sociales Grupo(Reversión);O15;D
+P16;Servicio Domestico Aportes de Obras Sociales Adherentes (Reversión);O16;D
+P17;Servicio Domestico Intereses Resarcitorios Aportes de Obras Sociales Adher.(Reversión);O17;D
+P20;Servicio Domestico Intereses Financieros Aportes de Obras Sociales (Reversión);O20;D
+P22;Morat. - Servicio Domestico Aportes/Contrib. Obras Sociales (Reversión);O22;D
+P24;Morat. - Servicio Domestico Intereses Resarcitorios Aportes/Contrib. Obras(Reversión);O24;D
+P26;Morat. - Servicio Domestico Intereses Financ. Aportes/Contr.Obras Sociales(Reversión);O26;D
+P61;Servicio Domestico Intereses Capitalizables Aportes Obra Social Adherentes (Reversión);O61;D
+P62;Servicio Domestico Intereses Capitalizables Aportes Voluntarios Obra Social (Reversión);O62;D
+P68;Servicio Domestico Intereses Capitalizables Aportes Obra Social (Reversión);O68;D
+Q14;Morat. / Aportes De Obra Social;R14;C
+Q15;Morat. / Contribuciones De Obra Social;R15;C
+Q16;Morat. / Contribuciones De Obra Social Adicional;R16;C
+Q22;Morat. / Intereses Resarcitorios de Aportes De Obra Social;R22;C
+Q23;Morat. / Intereses Resarcitorios de Contrib. De Obra Social;R23;C
+Q24;Morat. / Intereses Resarcitorios de Contrib. De Obra Social Adicional;R24;C
+Q30;Morat. / Intereses Punitorios de Aportes De Obra Social;R30;C
+Q31;Morat. / Intereses Punitorios de Contrib. De Obra Social;R31;C
+Q32;Morat. / Intereses Punitorios de Contrib. De Obra Social Adicional;R32;C
+Q35;Morat. / Multa Art.43 de Aportes De Obra Social;R35;C
+Q36;Morat. / Multa Art.43 de Contribuciones De Obra Social;R36;C
+Q37;Morat. / Multa Art.43 de Contribuciones De Obra Social Adicional;R37;C
+Q41;Morat. / RG 3756 de Aportes De Obra Social;R41;C
+Q42;Morat. / RG 3756 de Contribuciones De Obra Social;R42;C
+Q43;Morat. / RG 3756 de Contribuciones De Obra Social Adicional;R43;C
+Q47;Morat. / Intereses Financieros de Aportes De Obra Social;R47;C
+Q48;Morat. / Intereses Financieros de Contrib. De Obra Social;R48;C
+Q49;Morat. / Intereses Financieros de Contrib. De Obra Social Adicional;R49;C
+Q59;Morat. Ag. De Retencion / Contrib. De Obra Social;R59;C
+Q60;Morat. Ag. De Retencion / Contrib. De Obra Social Adicional;R60;C
+Q65;Morat. / Intereses s/Intereses de Aportes De Obra Social;R65;C
+Q66;Morat. / Intereses s/Intereses de Contrib. De Obra Social;R66;C
+Q69;Morat. / Intereses s/Intereses de Contrib. De Obra Social Adicional (Revers;R69;C
+Q71;Morat. Ag. De Retencion / Contrib. De Obra Social;R71;C
+Q83;Agentes de Retencion / Intereses Resarcit.de Moratoria de Contrib.O.S.;R83;C
+Q84;Agentes de Retencion / Intereses Resarcit.de Moratoria de Contrib.O.S. Adic;R84;C
+Q86;Agentes de Retencion / Intereses s/Intereses Moratoria de Contrib.O.S.;R86;C
+Q87;Agentes de Retencion / Intereses s/ Intereses Moratoria de Contrib.O.S. Adi;R87;C
+Q89;Agentes de Retencion / Intereses Financ.de Moratoria de Contrib.O.S.;R89;C
+Q90;Agentes de Retencion / Intereses Financ.de Moratoria de Contrib.O.S. Adicio;R90;C
+Q92;Agentes de Retencion / Intereses Multa Art.43 Morat.Contrib.O.S.;R92;C
+Q93;Agentes de Retencion / Intereses Multa Art.43 Morat.Contrib.O.S. Adicional;R93;C
+Q96;Agentes de Retencion / Intereses Multa Art.42 Morat.Contrib.O.S.;R96;C
+Q97;Agentes de Retencion / Intereses Multa Art.42 Morat.Contrib.O.S. Adicional;R97;C
+QA0;Agentes de Retencion / Intereses Multa RG.3756 Morat.Contrib.O.S. Adicional;RA0;C
+QA6;Agentes de Retencion / Intereses Punit.de Moratoria de Contrib.O.S.;RA6;C
+QA7;Agentes de Retencion / Intereses Punit.de Moratoria de Contrib.O.S. Adicion;RA7;C
+QA9;Agentes de Retencion / Intereses Multa RG.3756 Morat.Contrib.O.S.;RA9;C
+QB6;Decreto 1273/02 - Moratoria - Obra Social;RB6;C
+QB9;Decreto 1273/02 - Moratoria - Ag. Retención - Obra Social;RB9;C
+QD8;Pago de Multa Art. 42 - moratoria- Aportes de Obra Social;RD8;C
+QD9;Pago de Multa Art. 42 - moratoria- Contribucion de Obra Social;RD9;C
+QE0;Pago de Multa Art. 42 - moratoria- Contribucion Adicional de Obra Social;RE0;C
+QFD;CCG-Agentes de Retención - Plan de Facilidades - Aportes Obra Social;VFD;C
+QFJ;CCG-Agentes de Retención - Plan de Facilidades - Contribuciones Obra Social;VFJ;C
+QP5;Pre SIJP - moratoria - Pago de obra social;RP5;C
+QP6;Pre SIJP - moratoria - Pago de obra social intereses;RP6;C
+QP7;Pre SIJP - moratoria - Pago de obra social;RP7;C
+QP8;Pre SIJP - moratoria - Pago de obra social intereses;RP8;C
+QP9;Pre SIJP - moratoria - Pago de obra social;RP9;C
+QQ0;Morat. / Intereses Financieros Contrib. Obra Social;RQ0;C
+R14;Morat. / Aportes De Obra Social (Reversión);Q14;D
+R15;Morat. / Contribuciones De Obra Social (Reversión);Q15;D
+R16;Morat. / Contribuciones De Obra Social Adicional (Reversión);Q16;D
+R22;Morat. / Intereses Resarcitorios de Aportes De Obra Social (Reversión);Q22;D
+R23;Morat. / Intereses Resarcitorios de Contrib. De Obra Social (Reversión);Q23;D
+R24;Morat. / Intereses Resarcitorios de Contrib. De Obra Social Adicional (Reversión);Q24;D
+R30;Morat. / Intereses Punitorios de Aportes De Obra Social (Reversión);Q30;D
+R31;Morat. / Intereses Punitorios de Contrib. De Obra Social (Reversión);Q31;D
+R32;Morat. / Intereses Punitorios de Contrib. De Obra Social Adicional (Reversión);Q32;D
+R35;Morat. / Multa Art.43 de Aportes De Obra Social (Reversión);Q35;D
+R36;Morat. / Multa Art.43 de Contribuciones De Obra Social (Reversión);Q36;D
+R37;Morat. / Multa Art.43 de Contribuciones De Obra Social Adicional (Reversión);Q37;D
+R41;Morat. / RG 3756 de Aportes De Obra Social (Reversión);Q41;D
+R42;Morat. / RG 3756 de Contribuciones De Obra Social (Reversión);Q42;D
+R43;Morat. / RG 3756 de Contribuciones De Obra Social Adicional (Reversión);Q43;D
+R47;Morat. / Intereses Financieros de Aportes De Obra Social (Reversión);Q47;D
+R48;Morat. / Intereses Financieros de Contrib. De Obra Social (Reversión);Q48;D
+R49;Morat. / Intereses Financieros de Contrib. De Obra Social Adicional (Reversión);Q49;D
+R59;Morat. Ag. De Retencion / Contrib. De Obra Social (Reversión);Q59;D
+R60;Morat. Ag. De Retencion / Contrib. De Obra Social Adicional (Reversión);Q60;D
+R65;Morat. / Intereses s/Intereses de Aportes De Obra Social (Reversión);Q65;D
+R66;Morat. / Intereses s/Intereses de Contrib. De Obra Social Adicional (Reversión);Q66;D
+R69;Morat. / Intereses s/Intereses de Contrib. De Obra Social (Reversión);Q69;D
+R71;Morat. Ag. De Retencion / Contrib. De Obra Social (Reversión);Q71;D
+R83;Agentes de Retencion / Intereses Resarcit.de Moratoria de Contrib.O.S.(Reversión);Q83;D
+R84;Agentes de Retencion / Intereses Resarcit.de Moratoria de Contrib.O.S.Adic.(Reversión);Q84;D
+R86;Agentes de Retencion / Intereses s/Intereses Moratoria de Contrib.O.S. (Reversión);Q86;D
+R87;Agentes de Retencion / Intereses s/ Intereses Moratoria de Contrib.O.S.Adic(Reversión);Q87;D
+R89;Agentes de Retencion / Intereses Financ.de Moratoria de Contrib.O.S.(Reversión);Q89;D
+R90;Agentes de Retencion / Intereses Financ.de Moratoria de Contrib.O.S.Adicion(Reversión);Q90;D
+R92;Agentes de Retencion / Intereses Multa Art.43 Morat.Contrib.O.S. (Reversión);Q92;D
+R93;Agentes de Retencion / Intereses Multa Art.43 Morat.Contrib.O.S. Adicional(Reversión);Q93;D
+R96;Agentes de Retencion / Intereses Multa Art.42 Morat.Contrib.O.S. (Reversión);Q96;D
+R97;Agentes de Retencion / Intereses Multa Art.42 Morat.Contrib.O.S. Adicional(Reversión);Q97;D
+RA0;Agentes de Retencion / Intereses Multa RG.3756 Morat.Contrib.O.S. Adicional(Reversión);QA0;D
+RA6;Agentes de Retencion / Intereses Punit.de Moratoria de Contrib.O.S.(Reversión);QA6;D
+RA7;Agentes de Retencion / Intereses Punit.de Moratoria de Contrib.O.S.Adic.(Reversión);QA7;D
+RA9;Agentes de Retencion / Intereses Multa RG.3756 Morat.Contrib.O.S. (Reversión);QA9;D
+RB6;Decreto 1273/02 - Moratoria - Obra Social Reversiones;QB6;D
+RB9;Decreto 1273/02 - Moratoria - Ag. Retención - Obra Social OS Reversiones;QB9;D
+RD8;Pago de Multa Art. 42 - moratoria- Aportes de Obra Social - (Reversión);QD8;D
+RD9;Pago de Multa Art. 42 - moratoria- Contribucion de Obra Social - (Reversión);QD9;D
+RE0;Pago de Multa Art. 42 - moratoria- Contribucion Adicional de Obra Social (Reversión);QE0;D
+REA;Monotributo Subsidio Efectores Resolución Conjunta 853/06 MDS y 249/06 SSSalud - FSR;SEA;D
+REO;Monotributo Subsidio Efectores Resolución Conjunta 853/06 MDS y 249/06 SSSalud - OS;SEO;D
+RP5;Pre SIJP - moratoria - Pago de obra social (Reversión);QP5;D
+RP6;Pre SIJP - moratoria - Pago de obra social intereses (Reversión);QP6;D
+RP7;Pre SIJP - moratoria - Pago de obra social (Reversión);QP7;D
+RP8;Pre SIJP - moratoria - Pago de obra social intereses (Reversión);QP8;D
+RP9;Pre SIJP - moratoria - Pago de obra social (Reversión);QP9;D
+RQ0;Morat. / Intereses Financieros Contrib. Obra Social (Reversión);QQ0;D
+S14;Monotrib.Empleador-Aportes de Obra Social (Reversión);T14;D
+S15;Monotrib.Empleador-Contrib. de Obra Social (Reversión);T15;D
+S16;Monotrib.Empleador-Contrib. de Obra Social Adicional (Reversión);T16;D
+S30;Monotrib.Empleador-Aportes de Obra Social Boleta de Deuda (Reversión);T30;D
+S31;Monotrib.Empleador-Contrib. de Obra Social Boleta de Deuda (Reversión);T31;D
+S32;Monotrib.Empleador-Contrib. de Obra Social Adicional Boleta de Deuda (Reversión);T32;D
+S37;Monotrib.Empleador-Intereses Resarcitorios Aportes de Obra Social (Reversión);T37;D
+S38;Monotrib.Empleador-Intereses Resarcitorios de Contrib. de Obra Social (Reversión);T38;D
+S39;Monotrib.Empleador-Intereses Resarcitorios de Contrib. de Obra Social Adic.(Reversión);T39;D
+S45;Monotrib.Empleador-Intereses Punitorios Aportes de Obra Social (Reversión);T45;D
+S46;Monotrib.Empleador-Intereses Punitorios de Contrib. de Obra Social (Reversión);T46;D
+S47;Monotrib.Empleador-Intereses Punitorios de Contrib. de Obra Social Adicional(Rev.);T47;D
+S50;Monotrib.Empleador- Multa Art.43 Aportes de Obra Social (Reversión);T50;D
+S52;Monotrib.Empleador-Multa Art.43 de Contrib. de Obra Social (Reversión);T52;D
+S53;Monotrib.Empleador-Multa Art.43 de Contrib. de Obra Social Adicional (Reversión);T53;D
+S55;Monotrib.Empleador-Aportes y Contrib. Obra Social (Reversión);T55;D
+S56;Monotrib.Empleador-Boleta de Deuda Aportes y Contrib. Obra Social(Reversión);T56;D
+S57;Monotrib.Empleador-Intereses Resarcitorios Aportes y Contrib. Obra Social (Reversión);T57;D
+S58;Monotrib.Empleador-Intereses Punitorios Aportes y Contrib. Obra Social (Reversión);T58;D
+S61;Monotrib.Empleador-Intereses Financieros Aportes y Contrib. Obra Social (Reversión);T61;D
+S71;Morat. / Monotrib.Empleador-Aportes de Obra Social (Reversión);T71;D
+S72;Morat. / Monotrib.Empleador-Contrib. de Obra Social (Reversión);T72;D
+S77;Morat. / Monotrib.Empleador-Int.Resarcitorios Aportes de Obra Social (Reversión);T77;D
+S78;Morat. / Monotrib.Empleador-Int.Resarcitorios Contrib. de Obra Social (Reversión);T78;D
+S84;Morat. / Monotrib.Empleador-Int.Punitorios Aportes de Obra Social (Reversión);T84;D
+S85;Morat. / Monotrib.Empleador-Int.Punitorios Contrib. de Obra Social (Reversión);T85;D
+S88;Morat. / Monotrib.Empleador-Multa Aportes de Obra Social (Reversión);T88;D
+S89;Morat. / Monotrib.Empleador-Multa Contrib. de Obra Social (Reversión);T89;D
+S92;Morat. / Monotrib.Empleador-Aportes/Contrib. de Obra Social (Reversión);T92;D
+S94;Morat. / Monotrib.Empleador-Int. Resarcitorios de Aportes/Contrib. de Obra(Reversión);T94;D
+S96;Morat. / Monotrib.Empleador-Int. Punitorios de Aportes/Contrib.de Obra Soc.(Reversión);T96;D
+S99;Morat. / Monotrib.Empleador-Int. Finan. de Aportes/Contr.de Obra Soc.(Reversión);T99;D
+SEA;Monotributo Subsidio Efectores Resolución Conjunta 853/06 MDS y 249/06 SSSalud - FSR;REA;C
+SEO;Monotributo Subsidio Efectores Resolución Conjunta 853/06 MDS y 249/06 SSSalud - OS;REO;C
+SV4;Monot.empleadores-moratoria-Aportes volunt.obra social por adh.(Reversión);TV4;D
+SV7;Monot.empleadores-moratoria-Intereses resarc.aportes volunt.obra Social (Reversión);TV7;D
+T14;Monotrib.Empleador-Aportes de Obra Social;S14;C
+T15;Monotrib.Empleador-Contrib. de Obra Social;S15;C
+T16;Monotrib.Empleador-Contrib. de Obra Social Adicional;S16;C
+T30;Monotrib.Empleador-Aportes de Obra Social Boleta de Deuda;S30;C
+T31;Monotrib.Empleador-Contrib. de Obra Social Boleta de Deuda;S31;C
+T32;Monotrib.Empleador-Contrib. de Obra Social Adicional Boleta de Deuda;S32;C
+T37;Monotrib.Empleador-Intereses Resarcitorios Aportes de Obra Social;S37;C
+T38;Monotrib.Empleador-Intereses Resarcitorios de Contrib. de Obra Social;S38;C
+T39;Monotrib.Empleador-Intereses Resarcitorios de Contrib. de Obra Social Adici;S39;C
+T45;Monotrib.Empleador-Intereses Punitorios Aportes de Obra Social;S45;C
+T46;Monotrib.Empleador-Intereses Punitorios de Contrib. de Obra Social;S46;C
+T47;Monotrib.Empleador-Intereses Punitorios de Contrib. de Obra Social Adiciona;S47;C
+T50;Monotrib.Empleador- Multa Art.43 Aportes de Obra Social;S50;C
+T52;Monotrib.Empleador-Multa Art.43 de Contrib. de Obra Social;S52;C
+T53;Monotrib.Empleador-Multa Art.43 de Contrib. de Obra Social Adicional;S53;C
+T55;Monotrib.Empleador-Aportes y Contrib. Obra Social;S55;C
+T56;Monotrib.Empleador-Boleta de Deuda Aportes y Contrib. Obra Social;S56;C
+T57;Monotrib.Empleador-Intereses Resarcitorios Aportes y Contrib. Obra Social;S57;C
+T58;Monotrib.Empleador-Intereses Punitorios Aportes y Contrib. Obra Social;S58;C
+T61;Monotrib.Empleador-Intereses Financieros Aportes y Contrib. Obra Social;S61;C
+T71;Morat. / Monotrib.Empleador-Aportes de Obra Social;S71;C
+T72;Morat. / Monotrib.Empleador-Contrib. de Obra Social;S72;C
+T77;Morat. / Monotrib.Empleador-Int.Resarcitorios Aportes de Obra Social;S77;C
+T78;Morat. / Monotrib.Empleador-Int.Resarcitorios Contrib. de Obra Social;S78;C
+T84;Morat. / Monotrib.Empleador-Int.Punitorios Aportes de Obra Social;S84;C
+T85;Morat. / Monotrib.Empleador-Int.Punitorios Contrib. de Obra Social;S85;C
+T88;Morat. / Monotrib.Empleador-Multa Aportes de Obra Social;S88;C
+T89;Morat. / Monotrib.Empleador-Multa Contrib. de Obra Social;S89;C
+T92;Morat. / Monotrib.Empleador-Aportes/Contrib. de Obra Social;S92;C
+T94;Morat. / Monotrib.Empleador-Int. Resarcitorios de Aportes/Contrib. de Obra;S94;C
+T96;Morat. / Monotrib.Empleador-Int. Punitorios de Aportes/Contrib. de Obra So;S96;C
+T99;Morat. / Monotrib.Empleador-Int. Financieros de Aportes/Contrib. de Obra S;S99;C
+TV4;Monotributo empleadores - moratoria- Aportes voluntarios de obra social por;SV4;C
+TV7;Monotributo empleadores - moratoria- Intereses resarcitorios de aportes vol;SV7;C
+V03;CCG-Agentes de Retención APORTE OS (reversión);F03;D
+V09;CCG-Agentes de Retención CONTRIB. OS (reversión);F09;D
+VFD;CCG-Agentes de Retención - Plan de Facilidades - Aportes Obra Social (reversión);QFD;D
+VFJ;CCG-Agentes de Retención - Plan de Facilidades - Contribuciones Obra Social (reversión);QFJ;D
+W41;Morat. 1053 / Int. Contribuciones Obra Social;W81;C
+W42;Morat. 1053 / Int. Contribuciones Adicional Obra Social;W82;C
+W43;Multa RG 3756-Contrib.Obra Social Morat. 1053;W83;C
+W44;Multa RG 3756-Contrib.Obra Social Adicional Morat. 1053;W88;C
+W81;Morat. 1053 / Int. Contribuciones Obra Social (Reversión);W41;D
+W82;Morat. 1053 / Int. Contribuciones Adicional Obra Social (Reversión);W42;D
+W83;Multa RG 3756-Contrib.Obra Social Morat. 1053 (Reversión);W43;D
+W88;Multa RG 3756-Contrib.Obra Social Adicional Morat. 1053 (Reversión);W44;D
+W98;Int. Resarcit. Aportes de Obra Social (Reversión);W99;D
+W99;Int. Resarcit. Aportes de Obra Social;W98;C
+Z33;Morat. 24753 / Aportes de Obra Social;Z73;C
+Z34;Morat. 24753 /Contrib. Obra Social;Z74;C
+Z35;Morat. 24753 /Contrib. Adicional Obra Social;Z75;C
+Z39;Morat. 24753 /Int. Financieros;Z79;C
+Z40;Morat. 24753 / Int. Contribuciones Obra Social;Z80;C
+Z41;Morat. 24753 / Int. Contribuciones Adicional Obra Social;Z81;C
